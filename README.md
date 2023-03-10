@@ -20,12 +20,10 @@ Hi!, My name is Gabriel
 Studant from programming
 -----------------------------
 
-I'm a 15 years old and i study 
-
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+I'm a 15 years old and i study programming 
 
 * 🌍  I'm from Brazil
-* ✉️  You can contact me at [gabriel00089@gmail.com](mailto:gabriel00089@gmail.com)
+* ✉️  You can contact me at [gabrielpaiva00089@gmail.com](mailto:gabrielpaiva00089@gmail.com)
 * 🧠  I'm learning C/Algoritmo programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Jiujitsu

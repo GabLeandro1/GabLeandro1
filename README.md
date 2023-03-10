@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi!, My name is Gabriel
 ==========================
 
-Full Stack Software Developer
+Studant from programming
 -----------------------------
 
 I'm a 15 years old and i study 

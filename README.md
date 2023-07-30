@@ -1,7 +1,4 @@
- Hi there 👋
-
-<!--
-**GabLeandro1/GabLeandro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there👋
 
 Hi!, My name is Gabriel | Olá, meu nome é Gabriel 
 =============================

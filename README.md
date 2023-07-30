@@ -3,24 +3,11 @@
 <!--
 **GabLeandro1/GabLeandro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi!, My name is Gabriel
+Hi!, My name is Gabriel | Olá, meu nome é Gabriel 
 ==========================
 
-Studant from programming
+I am a high school student and computer technician from Univap unidade: centro | Sou estudante do ensino médio e técnico em informática pela Univap unidade: centro
 -----------------------------
-
-I'm a 15 years old and i study programming 
 
 * 🌍  I'm from Brazil
 * ✉️  You can contact me at [gabrielpaiva00089@gmail.com](mailto:gabrielpaiva00089@gmail.com)

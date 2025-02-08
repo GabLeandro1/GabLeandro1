@@ -3,10 +3,10 @@
 </h1>
 
 <div  align="center" >
-  Sou estudante do ensino médio técnico em informática pela Univap unidade: centro...
+  📚 Sou estudante do ensino médio técnico em informática pela Univap unidade: centro | I am a high school student in computer science at Univap unit: center 📚 
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas | Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,vscode,c,php,python,cs"/>

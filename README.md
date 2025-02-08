@@ -9,7 +9,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,css,vscode,c,php,python,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,css,vscode,c,php,python,c#" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>

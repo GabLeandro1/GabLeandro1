@@ -1,13 +1,33 @@
-Hi there👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+seja+bem-vindo!;+me+chamo+Gabriel!;" />
+</h1>
 
-Hi!, My name is Gabriel | Olá, meu nome é Gabriel 
-=============================
-I am a high school student and computer technician from Univap unidade: centro | Sou estudante do ensino médio e técnico em informática pela Univap unidade: centro
------------------------------
-* 🌍  I'm from Brazil | Eu sou do Brasil
-* ✉️  You can contact me at [gabrielpaiva00089@gmail.com](mailto:gabrielpaiva00089@gmail.com) | Você pode entrar em contato comigo em [gabrielpaiva00089@gmail.com](mailto:gabrielpaiva00089@gmail.com)
-* 🧠  I'm learning programming languages: Python, SQL, Html, Css and C#. | Estou aprendendo linguagens de programação: Python, SQL, Html, Css e C#.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives | Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
-* ⚡  I love sports and my favorite is Jiujitsu 🥋 | Amo esportes e meu preferido é Jiujitsu 🥋
+<div  align="center" >
+  Sou estudante do ensino médio e técnico em informática pela Univap unidade: centro...
+</div>
 
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,css,vscode,c,php,c#,python" />
+</div>
 
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GabLeandro1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GabLeandro1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabLeandro1&show_icons=true" />
+</picture>
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>

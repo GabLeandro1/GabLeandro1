@@ -3,7 +3,7 @@
 </h1>
 
 <div  align="center" >
-  📚 Sou recém-formado técnico em informática pela Univap unidade: centro e estou cursando 1º período de Ciência da Computação | 📚 I recently graduated as an IT technician from Univap downtown campus, and I am currently in my first semester of Computer Science.
+  📚 Sou recém-formado técnico em informática pela Univap unidade: centro e estou cursando 1º ano de Ciência da Computação | 📚 I recently graduated as an IT technician from Univap downtown campus, and I am currently in my first semester of Computer Science.
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas | Languages-Frameworks-Tools ⚒️</h2>
